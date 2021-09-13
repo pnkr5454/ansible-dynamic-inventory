@@ -5,7 +5,7 @@ This is a Python script that uses some bootstrapping logic to install pip.
 Download the script, by using below command 
 
 ```
-sudo wget https://bootstrap.pypa.io/get-pip.py
+sudo wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
 ```
 Open a terminal/command prompt, cd to the folder containing the get-pip.py file and run:
 ```
